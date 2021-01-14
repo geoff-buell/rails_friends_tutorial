@@ -1,24 +1,7 @@
-# README
+# Friends List App README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The code here was written while following along with John Elder's Ruby on Rails tutorial series for learning purposes only.
 
-Things you may want to cover:
+This is a Ruby on Rails Friends List App, where users can create an account, sign in and add contacts to their list, as well view, edit and delete those contacts.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
